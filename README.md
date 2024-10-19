@@ -1,9 +1,4 @@
-## Hi there 👋
+ GITHUB actions CI/CD pipeline creation
+   - Build CI/CD Pipeline Using GitHub Actions
+   - Build & Push Docker Image
 
-<!--
-**saidivyakakuturu/saidivyakakuturu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning GITHUB actions CI/CD pipeline creation
--->
