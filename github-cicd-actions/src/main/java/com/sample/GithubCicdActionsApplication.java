@@ -12,7 +12,7 @@ public class GithubCicdActionsApplication {
 	@GetMapping("/welcome")
 	public String welcome()
 	{
-		return "welcome SD";
+		return "welcome !!";
 	}
 
 	public static void main(String[] args) {
