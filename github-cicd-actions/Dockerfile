@@ -1,0 +1,4 @@
+FROM openjdk:17
+EXPOSE 8080
+ADD target/springbootproject-images.jar springbootproject-images.jar
+ENTRYPOINT ["java",".jar","springbootproject-images.jar"]
