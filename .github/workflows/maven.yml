@@ -36,6 +36,6 @@ jobs:
           image: ksaidivyareddy/springbootproject-images
           tags: latest
           registry: docker.io
-          dockerfile: Dockerfile --file github-cicd-actions/*
+          dockerfile: github-cicd-actions/Dockerfile
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
